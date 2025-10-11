@@ -1,2 +1,3 @@
 renamed adverts -> verts to stop adblocking :)
 renamed 160x600 -> bannerz to stop adblocking :)
+removed 160x600 from filename to stop adblocking :)
